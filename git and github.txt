@@ -1,0 +1,15 @@
+for 1st time need to configure github in our system
+git config --global user.name "pandeyrishabh4257"
+git config --global user.email "pandeyrishabh4257@gmail.com"
+
+git config --global color.ui auto
+
+Mandatory Commands
+>> git init
+>> git remote add origin https://github.com/pandeyrishabh4257-blip/2nd-repository.git
+
+
+
+
+git pull origin main
+git status
